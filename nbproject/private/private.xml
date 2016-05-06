@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/puzzle8/Board.java</file>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/puzzle8/Sample.java</file>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/puzzle8/EightPuzzleSolver.java</file>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/search/AStar.java</file>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/puzzle8/Node.java</file>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/search/BFS.java</file>
+            <file>file:/C:/Users/remote/Documents/NetBeansProjects/AI_8Puzzle/src/search/IDS.java</file>
+        </group>
+    </open-files>
+</project-private>
